@@ -1005,6 +1005,7 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
+    border-radius: 25px;
     background-color: rgba(117, 78, 249, 0.8);
     opacity: 0;
     visibility: hidden;
